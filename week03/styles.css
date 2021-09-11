@@ -3,8 +3,12 @@
 /* CSS Document */
 body{
   font-family: "Georgia", serif;
-  color: black;
+  color: #000000;
   line-height: 140%;
   margin-top: 30px;
-  
+   background-image: url("page-bg.gif");
+   background-repeat:no-repeat;
+   background-attachment: fixed;
+   background-color: #F7F3DE;
+   
 }
