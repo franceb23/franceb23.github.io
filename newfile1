@@ -1,0 +1,14 @@
+<!-- heading -->
+<h1>My first website in  html and cc</h1>
+<h2>HTML and css is cool!</h2>
+
+<button onclick="showAlert()">Show alert</button>
+ 
+<hr>
+<img src="https://i.pinimg.com/originals/15/e8/e7/15e8e709d511f5c39555443770aa0a27.jpg" alt="Dogo">
+<h2>this is the start of my paragraphs</h2>
+<p>this is text that I am adding to make it long so what is your name John I really dont care how is your day is too be honest just kidding I am a jokester lol.</p>
+<h3>you are a looser we all are alone</h3>
+<footer>this is the end of the page dont steal my stuff looser life sucks die</footer>
+
+
