@@ -1,0 +1,42 @@
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 25;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+body {
+  background-color:#f5f5dc ;
+}
+h1 {
+  color:  #556b2f;
+ 
+  text-align: center;
+  
+  border: 3px;
+  width:100% ;
+  padding: 25px;
+
+}
+p {
+  color: black;
+}
